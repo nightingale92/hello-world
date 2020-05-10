@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+hi!
+
+nightingale here, i'm new to r programming.
